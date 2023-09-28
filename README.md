@@ -38,7 +38,7 @@ We also ask that you please fill out the [feedback form](https://docs.google.co
 
 Please do not hesitate to [contact us](mailto:admin@learntodiscover.ai) if you have any questions, or if you are having difficulties accessing the materials and associated links for assignment submissions.
 
-We sincerely hope you enjoy the course, and look forward to seeing you on our first webinar.
+You have now reached the last topic on the L2D course. We sincerely hope you have enjoyed taking the course with us, and wish you all the best in your work and research.
 
 With best wishes,
 
