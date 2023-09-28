@@ -1,4 +1,5 @@
-# Machine Learning 6 - Lesson Resources:
+# Machine Learning 6 - Dimensionality Reduction
+## Lesson Resources:
 
 Please find linked below everything you will require for your participation in the L2D course for this lesson topic.
 
